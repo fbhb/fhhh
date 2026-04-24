@@ -1,0 +1,1 @@
+<Content for stm32f1xx_hal.c>
